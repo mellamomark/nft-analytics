@@ -1,2 +1,5 @@
 # nft-analytics
-Repository containg script for NFT analytics on the project Soulection+
+Repository containg scripts for NFT analytics.
+
+### Analyzed Projects:
+- Soulection+
